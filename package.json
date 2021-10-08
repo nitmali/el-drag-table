@@ -1,5 +1,5 @@
 {
-  "name": "el-table-auto-height",
+  "name": "el-drag-table",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
