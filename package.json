@@ -1,0 +1,10 @@
+{
+  "name": "el-table-auto-height",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "element-ui": "2.15.6",
+    "sortablejs": "^1.14.0",
+    "vue": "2.5.16"
+  }
+}
