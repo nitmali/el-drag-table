@@ -8,9 +8,6 @@
 
 ### 演示 
 * https://el-drag-table.stackblitz.io
-<iframe height="0" width="0" src="https://stackblitz.com/edit/el-drag-table?file=index.js" scrolling="no" border="0" frameborder="no"  framespacing="0" allowfullscreen="true">  </iframe>
-
-<iframe height="400" width="100%" src="https://el-drag-table.stackblitz.io/" scrolling="no" border="0" frameborder="no"  framespacing="0" allowfullscreen="true">  </iframe>
 
 ### 使用方法
 ```JavaScript
